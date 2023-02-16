@@ -1,4 +1,7 @@
 # 0.4Contributor
 Release
 
-Nikhil Chaudhari
+1. Ayesha khan
+2. Narendra Ahirwar
+3. Mohd Saif Ali
+4. Nikhil Chaudhari
