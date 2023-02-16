@@ -10,3 +10,5 @@ Release
 7. Shukla Jitendra 
 8. Amreen Amreen
 9. Mohammad Mahir
+10. Mayank Tripathi
+
