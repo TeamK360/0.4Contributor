@@ -8,5 +8,7 @@ Release
 5. Fardeen Khan
 6. Deepti Deshmukh 
 7. Shukla Jitendra 
-8. Mayank Tripathi
+8. Amreen Amreen
+9. Mohammad Mahir
+10. Mayank Tripathi
 
