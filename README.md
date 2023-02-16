@@ -1,4 +1,6 @@
 # 0.4Contributor
 Release
 
-1. Mohd Saif Ali
+1. Ayesha khan
+2. Narendra Ahirwar
+3. Mohd Saif Ali
