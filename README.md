@@ -2,4 +2,6 @@
 Release
 
 1. Sunil Choudhary 
-2. Jitendra Shukla
+3. Narendra Ahirwar
+2. Deepti Deshmukh
+4. Jitendra Shukla
