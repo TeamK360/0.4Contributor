@@ -2,5 +2,5 @@
 Release
 
 1. Sunil Choudhary 
-2. Another name added  
 3. Narendra Ahirwar
+2. Deepti Deshmukh
