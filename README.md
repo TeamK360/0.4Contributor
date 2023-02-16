@@ -1,6 +1,7 @@
 # 0.4Contributor
 Release
 
+
 1. Ayesha khan
 2. Narendra Ahirwar
 3. Mohd Saif Ali
@@ -11,4 +12,5 @@ Release
 8. Amreen Amreen
 9. Mohammad Mahir
 10. Mayank Tripathi
+11. Pratik Narute
 
