@@ -5,3 +5,4 @@ Release
 3. Narendra Ahirwar
 2. Deepti Deshmukh
 4. Jitendra Shukla
+5. Fardeen Khan
