@@ -10,5 +10,7 @@ Release
 6. Deepti Deshmukh 
 7. Shukla Jitendra 
 8. Amreen Amreen
-9. Pratik Narute
-10.Mohammad Mahir
+9. Mohammad Mahir
+10. Mayank Tripathi
+11. Pratik Narute
+
