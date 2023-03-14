@@ -4,11 +4,13 @@ Release
 * Amreen Amreen
 * Deepti Deshmukh 
 * Fardeen Khan
- Mohammad Mahir
- Mayank Tripathi
- Mohd Saif Ali
- Narendra Ahirwar
- Nikhil Chaudhari
- Pratik Narute
- Shukla Jitendra 
-
+* Mohammad Mahir
+* Mayank Tripathi
+* Mohd Saif Ali
+* Narendra Ahirwar
+* Nikhil Chaudhari
+* Pratik Narute
+* Shukla Jitendra 
+* Akash Bhadoria 
+* Sunil Choudhary 
+* Krishna Yadav 
