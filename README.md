@@ -1,16 +1,16 @@
-# 0.4Contributor
+# 0.8Contributor
 Release
-
-
-1. Ayesha khan
-2. Narendra Ahirwar
-3. Mohd Saif Ali
-4. Nikhil Chaudhari
-5. Fardeen Khan
-6. Deepti Deshmukh 
-7. Shukla Jitendra 
-8. Amreen Amreen
-9. Mohammad Mahir
-10. Mayank Tripathi
-11. Pratik Narute
-12. Krishna Yadav
+* Ayesha khan
+* Amreen Amreen
+* Deepti Deshmukh 
+* Fardeen Khan
+* Mohammad Mahir
+* Mayank Tripathi
+* Mohd Saif Ali
+* Narendra Ahirwar
+* Nikhil Chaudhari
+* Pratik Narute
+* Shukla Jitendra 
+* Akash Bhadoria 
+* Sunil Choudhary 
+* Krishna Yadav
